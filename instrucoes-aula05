@@ -1,0 +1,23 @@
+class HelloWorld{
+	
+	public static void main (String[]args){
+		System.out.println("Hello World");
+	}
+}
+
+
+//** Comentário da aula
+
+* Declaração da Classe destacada em vermelho
+* Nome da Classe você da qualquer um é sa escolha. 
+* Observação: o nome da Classe começa com a primeira palavra com  letra em maiscula e assim para  	seugunda e a seguinte...
+
+* Metódo  no caso do java é o que tem o public static void main ...
+
+* public static é    - Modificadores de Acesso do Método
+* void : significa   - Tipo de Retorno do Método
+* main é  o          - Nome do Método
+* String / args: são - Parametros/Argumentos  do Método
+* System.out.println("Hello World"); - Nosso código
+* Blocos estão entre {} (chaves)
+*/
