@@ -1,0 +1,10 @@
+			Lição de Casa
+		Exercicío de Laboratório
+
+MacBook-Pro-de-Domicio:aula05 domiciosilva$ ls
+HelloWorld.class	HelloWorld.java
+MacBook-Pro-de-Domicio:aula05 domiciosilva$ ls
+HelloWorld.class	HelloWorld.java		OlaMundo.java
+MacBook-Pro-de-Domicio:aula05 domiciosilva$ javac OlaMundo.java
+MacBook-Pro-de-Domicio:aula05 domiciosilva$ java OlaMundo
+Ola Mundo!
