@@ -1,0 +1,13 @@
+package com.domicio.cursojava.aula11;
+
+public class Piadinha {
+
+	public static void main(String[] args) {
+		
+		int Oct32 =032;
+		int Dec25 = 25;
+		
+		System.out.println(Oct32 == Dec25);
+	}
+
+}

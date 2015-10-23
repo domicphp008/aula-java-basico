@@ -1,0 +1,22 @@
+package com.domicio.cursojava.aula11;
+
+public class SequenciaEscape {
+
+	public static void main(String[] args) {
+		
+		//"Mais uma Coriosidade !"
+				System.out.print("\"Na Barra , Invertidas, N e R!\"\n\r");
+		
+		//"Hello, World!"
+		System.out.print("\"Hello, World!\"\n\r");
+		// 1\4
+		System.out.println("1\\4");
+		
+		// 3\8
+				System.out.println("3\\8");
+				
+		
+		
+	}
+
+}

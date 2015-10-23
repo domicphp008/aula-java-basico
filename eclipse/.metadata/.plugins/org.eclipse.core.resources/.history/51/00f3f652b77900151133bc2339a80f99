@@ -1,0 +1,15 @@
+package com.domicio.cursojava.aula10;
+
+public class Variaveis {
+
+	public static void main(String[] args) {
+		
+		//convenção Java
+		int idade = 20;
+		String nome = "Domicio";
+		String NomeDoMeuCachorro = " Mini"; 
+		String ano2014 = "2014";
+		
+	}
+
+}
