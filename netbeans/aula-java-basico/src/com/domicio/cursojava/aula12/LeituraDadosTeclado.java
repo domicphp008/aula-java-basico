@@ -10,7 +10,7 @@ public class LeituraDadosTeclado {
     
     Scanner scan = new Scanner(System.in);
     
-    /*System.out.println("Digite seu nome completo: ");
+   /*System.out.println("Digite seu nome completo: ");
     String nomeCompleto = scan.nextLine();
     System.out.println("Seu nome completo é: " + nomeCompleto);
     
@@ -41,6 +41,12 @@ public class LeituraDadosTeclado {
         System.out.println("Altura: " + altura);
         System.out.println("Tem bichinho de estimação " + tenPet);
         
+    
+        System.out.println("A onde é a sua consulta médica, Que hora?");
+        String consulta = scan.next();
+        byte hora = scan.nextByte();
+        System.out.println("digite a hora da consulta");
+        System.out.println("a hora é:");
    }    
 
 

@@ -1,0 +1,16 @@
+
+public class IfQuadrinho {
+
+	public static void main(String[] args) {
+	System.out.println("Digite a Quantidade de Ovos:");
+		boolean temBatata = true;
+		
+		int ovos = 6;
+		if (temBatata){
+			ovos = 9;
+		}
+		System.out.println("Compre " + ovos + " ovos ");
+
+	}
+
+}
